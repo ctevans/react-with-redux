@@ -2,8 +2,8 @@
 
 This is how your data will look like in the redux store.
 
-{
-inventory: [{
+		{
+		inventory: [{
 			id: 1,
 			itemTypeId: 13,
 			currentStock: 5,
@@ -33,4 +33,4 @@ inventory: [{
 		]
 	}
 
-}
+		}
